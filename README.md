@@ -22,8 +22,8 @@ Soy **desarrolladora web** con conocimientos en **HTML, CSS, JavaScript, APIs RE
 ## Contacto
 
 Puedes contactarme a través de:
-📧 **Correo electrónico:** ana04182002@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/ana-maria-brandao](www.linkedin.com/in/ana-maria-brandao-rezende-579126196)
-🌍 Ubicación: Madrid, España
+- 📧 **Correo electrónico:** ana04182002@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/ana-maria-brandao](www.linkedin.com/in/ana-maria-brandao-rezende-579126196)
+- 🌍 Ubicación: Madrid, España
 
 ¡Gracias por visitar mi repositorio!

@@ -1,4 +1,4 @@
-📄# Currículum Vitae de Ana María Brandao
+# 📄 Currículum Vitae de Ana María Brandao
 
 ¡Bienvenido a mi repositorio de GitHub! Este repositorio contiene mi currículum vitae actualizado.
 
@@ -9,7 +9,7 @@ El archivo PDF adjunto contiene mi currículum vitae, el cual detalla mi experie
 ## 📌 Sobre mí  
 Soy **desarrolladora web** con conocimientos en **HTML, CSS, JavaScript, APIs REST, React y MySQL**. Me apasiona el **Motion Design** y la animación digital.
 
-📂## Archivo
+## 📂 Archivo
 
 - [CV-Ana-Maria-Brandao.pdf](https://github.com/aanamarr/CV-2025/blob/main/CV-Ana-Maria-Brandao.pdf)
 
